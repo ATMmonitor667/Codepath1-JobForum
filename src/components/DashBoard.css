@@ -1,0 +1,12 @@
+.div{
+    display: flex;
+    flex-direction: row;
+}
+
+.SalarySort{
+    margin-left: 0px;
+}
+.AlphaSort{
+    margin-left: 675px;
+    position: right;
+}
